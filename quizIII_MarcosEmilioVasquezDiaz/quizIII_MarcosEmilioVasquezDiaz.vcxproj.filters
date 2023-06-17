@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Silla.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sofa.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesilla.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SillaArtDeco.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VictorianaSilla.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SillaModerna.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SofaArtDeco.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SofaVictoriana.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SofaModerna.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MesillaArtDeco.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MesillaVictoriana.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MesillaModerna.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Fabrica.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Interfaz.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FabricaArtDeco.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FabricaVictoriana.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FabricaModerna.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Silla.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sofa.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesilla.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SillaArtDeco.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VictorianaSilla.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SillaModerna.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SofaArtDeco.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SofaVictoriana.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SofaModerna.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MesillaArtDeco.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MesillaVictoriana.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MesillaModerna.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Fabrica.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Interfaz.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FabricaArtDeco.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FabricaVictoriana.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FabricaModerna.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
